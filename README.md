@@ -1,4 +1,4 @@
-# SCAPS Validation Project
+# ML Validation Using SCAPS Project
 
 ## Overview
 
